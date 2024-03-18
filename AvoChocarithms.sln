@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvoChocarithms.SectionA.Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvoChocarithms.SectionA.DataStructures1.Tests", "AvoChocarithms.SectionA.DataStructures1.Tests\AvoChocarithms.SectionA.DataStructures1.Tests.csproj", "{8874B895-9CAC-4B87-99B1-70822922B6EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvoChocarithms.SectionA.DataStructures2", "AvoChocarithms.SectionA.DataStructures2\AvoChocarithms.SectionA.DataStructures2.csproj", "{23B673FA-FD8D-47D6-8D1E-436FD569D931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvoChocarithms.SectionA.DataStructures2.Tests", "AvoChocarithms.SectionA.DataStructures2.Tests\AvoChocarithms.SectionA.DataStructures2.Tests.csproj", "{91ADBFCF-48FA-4CE8-A830-C614ACB4B2DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +32,14 @@ Global
 		{8874B895-9CAC-4B87-99B1-70822922B6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8874B895-9CAC-4B87-99B1-70822922B6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8874B895-9CAC-4B87-99B1-70822922B6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B673FA-FD8D-47D6-8D1E-436FD569D931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B673FA-FD8D-47D6-8D1E-436FD569D931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B673FA-FD8D-47D6-8D1E-436FD569D931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B673FA-FD8D-47D6-8D1E-436FD569D931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91ADBFCF-48FA-4CE8-A830-C614ACB4B2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91ADBFCF-48FA-4CE8-A830-C614ACB4B2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91ADBFCF-48FA-4CE8-A830-C614ACB4B2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91ADBFCF-48FA-4CE8-A830-C614ACB4B2DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,6 +47,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C77D2256-49A1-4A0A-A547-B76E909749BF} = {54F9E6AA-7C45-48BF-844D-574849E1BBB9}
 		{8874B895-9CAC-4B87-99B1-70822922B6EC} = {54F9E6AA-7C45-48BF-844D-574849E1BBB9}
+		{23B673FA-FD8D-47D6-8D1E-436FD569D931} = {54F9E6AA-7C45-48BF-844D-574849E1BBB9}
+		{91ADBFCF-48FA-4CE8-A830-C614ACB4B2DD} = {54F9E6AA-7C45-48BF-844D-574849E1BBB9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F03D4F23-E656-466E-B280-ADF2061B4207}
